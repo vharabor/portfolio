@@ -1,2 +1,3 @@
 #Sample acloudguru project
-Sample project using AWS and ReactJS
+
+Sample project using AWS and ReactJS.
